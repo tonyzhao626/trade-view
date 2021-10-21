@@ -1,7 +1,15 @@
-# trading-view
+# Trade View App
 
-#Tech
-  -ReactJS, NextJS,NodeJS,ExpressJS, Coingecko API, mongodb, ag-grid, server side pagination, SSR, vue
+## Tech Stack
+- React
+- Vue
+- Next.js
+- Node.js
+- Express.js
+- [Coingecko API](https://www.coingecko.com/en/api)
+- Mongodb
+- [AG Grid](https://www.ag-grid.com/)
+
 <p>
   <img src="capture.png" />
 </p>
